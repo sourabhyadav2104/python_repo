@@ -1,7 +1,6 @@
 # Q. Add new item to list after a specified item.
 
 list1 = [10, 20, [300, 400, [5000, 6000], 500], 30, 40]
-
 # understand indexing
 # list1[0] = 10
 # list1[1] = 20

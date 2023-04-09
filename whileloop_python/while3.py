@@ -1,6 +1,5 @@
 # Q.Finding the average of 5 numbers using while loop.
 
-
 p = 5
 sum = 0
 count = 0

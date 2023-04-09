@@ -1,4 +1,5 @@
 # Q.Write a program to filter even and odd number from a list.
+
 x = [10,20,35,65,78,90]
 eve = []
 odd = []

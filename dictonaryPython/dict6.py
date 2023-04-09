@@ -1,7 +1,5 @@
 # Q.Write a Python program to remove duplicates from the dictionary.
 
-
-
 student_data = {'id1': 
    {'name': ['sourabh'], 
     'class': ['12'], 

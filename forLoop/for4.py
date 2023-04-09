@@ -1,4 +1,5 @@
 # Q.WAP to separate positive and negative number from a list.
+
 x = [23,4,-6,23,-9,21,3,-45,-8]
 pos = []
 neg = []
